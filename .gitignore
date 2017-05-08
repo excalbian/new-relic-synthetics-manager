@@ -43,3 +43,4 @@ jspm_packages
 # OS Files
 .DS_Store
 synthetics.json
+MonitorConfig.js
